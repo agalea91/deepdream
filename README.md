@@ -1,6 +1,6 @@
 # deepdream
 
-This is my forked repository where I play around with deepdream!
+1 This is my forked repository where I play around with deepdream!
 
 This repository contains IPython Notebook with sample code, complementing 
 Google Research [blog post](http://googleresearch.blogspot.ch/2015/06/inceptionism-going-deeper-into-neural.html) about Neural Network art.
